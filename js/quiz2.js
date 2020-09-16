@@ -11,9 +11,9 @@ for (let i=1 ; i<=20 ; i += 1){
 console.log("Number 2")
     
 for (let i=1 ; i<=20 ; i++){
-        if(i%2 == 0)
-        console.log(i)
-        // console.log(i%2 === 0 ? 1 :"")
+        // if(i%2 === 0)
+        // console.log(i)
+        console.log(i%2 === 0 ? i :"")
     }
 
 // 3.
