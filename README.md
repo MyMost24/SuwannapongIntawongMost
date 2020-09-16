@@ -8,16 +8,15 @@
 
 <br />
 
-##### Hi, I'm Suwannapong Intawong, a Full Stack Developer from Thailand, 
+### Hi, I'm Suwannapong Intawong, a Full Stack Developer from Thailand, 
 
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
-- 🌱 I’m currently learning python; 
-- 💬 Ask me about anything, I am happy to help;
-
+##### - 👨🏽‍💻 I’m currently working on something cool :wink:;
+##### - 🌱 I’m currently learning python; 
+##### - 💬 Ask me about anything, I am happy to help;
 - 📝[Resume](https://drive.google.com/file/d/1EbYkk2d0VEjykwc6JqGObi7HbkTSuhwC/view?usp=sharing)
 
 **Languages and Tools:**  
