@@ -9,8 +9,8 @@ const plus = (a,b) => a+b
 
 const bmi = (h,w) => {
     this.user = 'John'
-    bmi = w/h^2
-    return bmi
+    sum = parseFloat(w/(h*h))
+    return sum
 }
 
 
