@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my_resume",
-    "slug": "my_resume",
+    "name": "my-resume",
+    "slug": "my-resume",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
